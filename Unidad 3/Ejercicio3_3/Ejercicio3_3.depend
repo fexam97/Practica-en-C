@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1685313509 source:c:\users\sombr\onedrive\escritorio\progra\unidad 3\ejercicio3_3\main.c
+	"funciones.h"
+
+1685313359 c:\users\sombr\onedrive\escritorio\progra\unidad 3\ejercicio3_3\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1685313528 source:c:\users\sombr\onedrive\escritorio\progra\unidad 3\ejercicio3_3\funciones.c
+	"funciones.h"
+
+1685313551 source:c:\users\sombr\onedrive\escritorio\fer\progra\unidad 3\ejercicio3_3\funciones.c
+	"funciones.h"
+
+1685313359 c:\users\sombr\onedrive\escritorio\fer\progra\unidad 3\ejercicio3_3\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1685313509 source:c:\users\sombr\onedrive\escritorio\fer\progra\unidad 3\ejercicio3_3\main.c
+	"funciones.h"
+
