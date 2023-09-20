@@ -1,10 +1,12 @@
-<h1>TOPICOS DE PROGRAMACION</h1>
+<h1>TOPICOS DE PROGRAMACIÓN</h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="lenguaje-c" width="60">
 
 <section>
 
   <div class = "container">
   <p>
-    Esta es una materia que curse en la Universidad Nacional de La Matanza
+    Esta es una materia que cursé en la Universidad Nacional de La Matanza
    <img src="https://seeklogo.com/images/U/unlam-universidad-nacional-de-la-matanza-logo-B665E562AA-seeklogo.com.png" alt="Unlam" width="30">
   </p>  
   </div>
