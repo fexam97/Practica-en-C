@@ -25,3 +25,13 @@
   </ul>
     
   </section>
+
+
+  <div>
+  <p>  
+    Los codigos fueron codificados en codeblocks
+   <img src="https://img2.freepng.es/20180514/rkw/kisspng-code-blocks-integrated-development-environment-c-5af9eee0253788.5088014415263290561525.jpg" alt="Codeblocs" width="50">
+  </p> 
+    
+  </div>
+  
